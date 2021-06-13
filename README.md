@@ -1,4 +1,4 @@
-##Introduction
+## Introduction
 Pastebin is a web application that allows users to upload and share text online.
 This is a simple RESTful API implementation of Pastebin.
 
